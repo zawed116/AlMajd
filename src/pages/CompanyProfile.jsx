@@ -75,7 +75,7 @@ const CompanyProfile = () => {
               className="rounded-lg shadow-lg"
             />
             <img
-              src="https://images.unsplash.com/photo-1613545326278-3f4782555026?q=80&w=600"
+              src="/images/Excavator.jpg"
               alt="Excavator"
               className="rounded-lg shadow-lg"
             />
@@ -105,9 +105,9 @@ const CompanyProfile = () => {
 
 
 <div class="w-full">
-  <div class="h-[350px] w-full">
+  <div class="h-[900px] w-full">
     <img
-      src="https://www.ishn.com/ext/resources/2022/09/29/Nighttime-construction-work-Getty.jpg?1687573798"
+      src="/images/ConstructionWork.jpg"
       alt="Construction Work"
       class="w-full h-full object-cover"
     />
@@ -196,37 +196,37 @@ const CompanyProfile = () => {
     </div>
   </div>
 
-  
   <div class="w-full bg-gray-50 py-12">
-    <div class="max-w-6xl mx-auto text-center px-6">
-      <h2 class="text-4xl font-bold mb-12">
-        <span class="text-red-600">Meet Our</span> Team
-      </h2>
+  <div class="max-w-6xl mx-auto text-center px-6">
+    <h2 class="text-4xl font-bold mb-12">
+      <span class="text-red-600">Meet Our</span> Team
+    </h2>
 
-      <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
-       
-        <div class="bg-white shadow-lg rounded-lg p-6">
-          <div class="w-28 h-28 mx-auto rounded-full bg-gray-300 mb-4"></div>
-          <h3 class="text-xl font-semibold">Zawed Akhter</h3>
-          <p class="text-gray-600">Co-Founder (Owner)</p>
-        </div>
+    <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
+      
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <img src="/images/Zawed.png" alt="Zawed Akhter" class="w-28 h-28 mx-auto rounded-full mb-4 object-cover" />
+        <h3 class="text-xl font-semibold">Zawed Akhter</h3>
+        <p class="text-gray-600">Co-Founder (Owner)</p>
+      </div>
 
-     
-        <div class="bg-white shadow-lg rounded-lg p-6">
-          <div class="w-28 h-28 mx-auto rounded-full bg-gray-300 mb-4"></div>
-          <h3 class="text-xl font-semibold">Rituraj Raj</h3>
-          <p class="text-gray-600">General Manager</p>
-        </div>
+      
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <img src="/images/Rituraj.png" alt="Rituraj Raj" class="w-28 h-28 mx-auto rounded-full mb-4 object-cover" />
+        <h3 class="text-xl font-semibold">Rituraj Raj</h3>
+        <p class="text-gray-600">General Manager</p>
+      </div>
 
-        
-        <div class="bg-white shadow-lg rounded-lg p-6">
-          <div class="w-28 h-28 mx-auto rounded-full bg-gray-300 mb-4"></div>
-          <h3 class="text-xl font-semibold">Anish Devadi</h3>
-          <p class="text-gray-600">Chief Executive Officer (CEO)</p>
-        </div>
+      
+      <div class="bg-white shadow-lg rounded-lg p-6">
+        <img src="/images/Anish.png" alt="Anish Devadi" class="w-28 h-28 mx-auto rounded-full mb-4 object-cover" />
+        <h3 class="text-xl font-semibold">Anish Devadi</h3>
+        <p class="text-gray-600">Chief Executive Officer (CEO)</p>
       </div>
     </div>
   </div>
+</div>
+
 
 </div>
 
