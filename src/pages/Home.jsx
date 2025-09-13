@@ -265,8 +265,8 @@ function Home() {
   {/* Profile Image */}
   <div className="w-24 h-24 mx-auto rounded-full overflow-hidden">
     <img
-      src="https://scontent-maa3-2.xx.fbcdn.net/v/t39.30808-1/322375050_1279430942980942_2564076820581792113_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Aj1N8_odxXQQ7kNvwGqMkWn&_nc_oc=AdllLzsIWXK-nPq0M__k7v47eaWwKPSYZwGXLgFnIZar93Rq6pnKC6V9UqMUUgfg1LusIhJ4n3-Sm3rbCkoGPgUS&_nc_zt=24&_nc_ht=scontent-maa3-2.xx&_nc_gid=TvesDu9T_EH34URb7KD2Fg&oh=00_AfXCG-Hvwcm_IK7osA5KThNfyzf3D9FiYT2m-VLWq0QRxA&oe=68B61F82"   // <-- replace with actual image path
-      alt="Mohammad Nasim Rafi"
+      src="/images/Zawed.png"   // <-- replace with actual image path
+      alt="Zawed Akhter"
       className="w-full h-full object-cover"
     />
   </div>
@@ -290,7 +290,7 @@ function Home() {
       {/* Member 2 */}
       <div className="bg-white p-6 rounded shadow-md text-center w-full md:w-1/4">
   <img
-    src="https://scontent-maa2-1.xx.fbcdn.net/v/t1.6435-1/186466705_848458755739834_6179462098749303986_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=MYmBW9po_KIQ7kNvwGx4ViO&_nc_oc=AdlwwytuBCi125I5h9qXdM08E5O38EbKqMzOBta7P-uknLh8csQxyuSwAfYP4-wMDdmybR-uM_e7iF5RoXT2RNrw&_nc_zt=24&_nc_ht=scontent-maa2-1.xx&_nc_gid=NTytYIwPSmPLrFVj02AsXQ&oh=00_AfWWQVj-8sRmdV65V1hyHY8V68D2_9cxrukIFJmCCHFXRA&oe=68D7CB25" 
+    src="/images/Rituraj.png" 
     alt="Rituraj Pal"
     className="w-24 h-24 mx-auto rounded-full object-cover"
   />
@@ -306,7 +306,7 @@ function Home() {
       {/* Member 3 */}
 <div className="bg-white p-6 rounded shadow-md text-center w-full md:w-1/4">
   <img
-    src="https://scontent-maa3-3.xx.fbcdn.net/v/t39.30808-6/469086345_590842066726457_5160827272455267560_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0IDaEo5Q4FsQ7kNvwFzckik&_nc_oc=AdlnLPQ9YuLjkEmGRpLYWFjSCoqC2tgZ7wTMALQVcYWm5GmiDN5il6iezMX7EiZ7PwECeJSDrafCS4-S8mFvyPRd&_nc_zt=23&_nc_ht=scontent-maa3-3.xx&_nc_gid=L1hEDPvZQNCdVyzqhTqkcA&oh=00_AfWIIw4iGMD0bnx2D7vxABMtqGwRCRP1pv5MqWGU2t4IOA&oe=68B6365E"  // 👉 Replace this with the actual image link or local file path
+    src="/images/Anish.png"  // 👉 Replace this with the actual image link or local file path
     alt="Anish Devadi"
     className="w-24 h-24 mx-auto rounded-full object-cover"
   />
